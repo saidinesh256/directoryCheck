@@ -1,0 +1,14 @@
+{
+    "id": "directory-1/directory-1a",
+    "entries": [
+      {
+        "name": "directory-1aA",
+        "type": "directory"
+      },
+      {
+        "name": "index.js",
+        "type": "file"
+      }
+    ]
+  }
+  

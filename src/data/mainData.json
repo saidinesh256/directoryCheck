@@ -1,0 +1,29 @@
+{
+  "id": "root",
+  "entries": [
+    {
+      "name": "directory-1",
+      "type": "directory"
+    },
+    {
+      "name": "directory-2",
+      "type": "directory"
+    },
+    {
+      "name": "directory-3",
+      "type": "directory"
+    },
+    {
+      "name": "index.js",
+      "type": "file"
+    },
+    {
+      "name": "component-1.js",
+      "type": "file"
+    },
+    {
+      "name": "component-2.js",
+      "type": "file"
+    }
+  ]
+}
